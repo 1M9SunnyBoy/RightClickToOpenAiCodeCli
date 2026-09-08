@@ -98,3 +98,7 @@ Windows の右クリックメニューに項目を追加し、現在のフォル
 
 > `i18n.ps1` と `RightClickToOpenAiCode.ps1` は **UTF-8 with BOM** を維持してください。
 > そうしないと日本語・中国語・韓国語が Windows PowerShell 5.1 で ANSI として誤読され、文字化けします。
+
+## リンク
+
+- [GitHub リポジトリ](https://github.com/1M9SunnyBoy/RightClickToOpenAiCodeCli)

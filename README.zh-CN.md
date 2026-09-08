@@ -98,3 +98,7 @@
 
 > 注意：`i18n.ps1` 和 `RightClickToOpenAiCode.ps1` 需保持 **UTF-8 with BOM** 编码，
 > 否则中文/日文/韩文会被 Windows PowerShell 5.1 误读为 ANSI 而乱码。
+
+## 链接
+
+- [GitHub 仓库](https://github.com/1M9SunnyBoy/RightClickToOpenAiCodeCli)

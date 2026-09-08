@@ -107,3 +107,7 @@ small block at the top of `RightClickToOpenAiCode.ps1`.
 
 > `i18n.ps1` and `RightClickToOpenAiCode.ps1` must stay **UTF-8 with BOM**;
 > otherwise the CJK strings are misread as ANSI by Windows PowerShell 5.1 and garbled.
+
+## Links
+
+- [GitHub repository](https://github.com/1M9SunnyBoy/RightClickToOpenAiCodeCli)

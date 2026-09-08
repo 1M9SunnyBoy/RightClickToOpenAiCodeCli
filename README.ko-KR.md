@@ -98,3 +98,7 @@ PowerShell 창으로 실행하는 도구입니다.
 
 > `i18n.ps1`과 `RightClickToOpenAiCode.ps1`은 **UTF-8 with BOM**을 유지해야 합니다.
 > 그렇지 않으면 한·중·일 문자열이 Windows PowerShell 5.1에서 ANSI로 잘못 읽혀 깨집니다.
+
+## 링크
+
+- [GitHub 저장소](https://github.com/1M9SunnyBoy/RightClickToOpenAiCodeCli)
